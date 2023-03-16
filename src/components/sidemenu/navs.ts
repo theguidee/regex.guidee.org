@@ -23,4 +23,8 @@ export const navs = [
     label: 'Âncoras',
     link: '/docs/anchors',
   },
+  {
+    label: 'Outros',
+    link: '/docs/others',
+  },
 ];
