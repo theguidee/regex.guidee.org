@@ -7,4 +7,8 @@ export const navs = [
     label: 'Flags',
     link: '/docs/flags',
   },
+  {
+    label: 'Meta Caracteres',
+    link: '/docs/meta-characters',
+  },
 ];
