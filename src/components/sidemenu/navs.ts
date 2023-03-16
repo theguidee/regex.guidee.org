@@ -19,4 +19,8 @@ export const navs = [
     label: 'Quantificadores',
     link: '/docs/quantifiers',
   },
+  {
+    label: 'Âncoras',
+    link: '/docs/anchors',
+  },
 ];
