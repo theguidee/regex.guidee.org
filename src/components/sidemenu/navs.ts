@@ -1,1 +1,6 @@
-export const navs = [];
+export const navs = [
+  {
+    label: 'Introdução',
+    link: '/docs/introduction',
+  },
+];
