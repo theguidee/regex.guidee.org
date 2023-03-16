@@ -1,5 +1,12 @@
-const Home = () => {
-  return <h1>Ahhh... Hello??</h1>;
-};
+import { GetServerSideProps } from 'next';
 
-export default Home;
+const Index = () => null;
+
+export const getServerSideProps: GetServerSideProps = async () => ({
+  redirect: {
+    destination: 'docs/introduction',
+    permanent: true,
+  },
+});
+
+export default Index;
