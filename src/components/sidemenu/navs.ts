@@ -11,4 +11,8 @@ export const navs = [
     label: 'Meta Caracteres',
     link: '/docs/meta-characters',
   },
+  {
+    label: 'Representantes',
+    link: '/docs/representatives',
+  },
 ];
