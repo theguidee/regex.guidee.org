@@ -15,4 +15,8 @@ export const navs = [
     label: 'Representantes',
     link: '/docs/representatives',
   },
+  {
+    label: 'Quantificadores',
+    link: '/docs/quantifiers',
+  },
 ];
